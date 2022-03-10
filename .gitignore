@@ -1,0 +1,4 @@
+# Project exclude paths
+/13-spring-mybatis3/target/
+/14-spring-mybatis4/target/
+/out/
